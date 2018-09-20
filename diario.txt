@@ -1,0 +1,7 @@
+2018/09/17
+   git clone https://github.com/sandra1036/ed.git
+   git config --global user.name sandra1036
+   git config --global user.email sandraromero262@gmail.com
+   git config --list
+   git config --global push.default simple
+
