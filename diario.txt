@@ -1,7 +1,21 @@
 2018/09/17
    git clone https://github.com/sandra1036/ed.git
-   git config --global user.name sandra1036
-   git config --global user.email sandraromero262@gmail.com
-   git config --list
-   git config --global push.default simple
+   git config --global user.name sandra1036.
+   git config --global user.email sandraromero262@gmail.com.
+   git config --list.
+   git config --global push.default simple.
+   git push publicar y sincronizar la carpeta a github.
+   git pull para sincronizar github con otra carpeta.
 
+
+
+Virutual box
+
+	actualizar la versión: sudo apt update(ver si hay actualizaciones), sudo apt full-upgrade para actualizarlo, y para instalar sudo apt install.
+
+	hemos ejecutado sudo add-apt-repository ppa:webupd8team/java y sudo apt-get update
+        Y lo hemos instalado con sudo apt install oracle-java8-installer
+
+Para compilar ponemos en el terminal javac, al compilarlo hemos obtenido un nuevo archivo llamado HolaMundo.class (ejecutable en jre) el nombre de la clase y del archivo tiene que estar las iniciales con mayúsculas.
+
+	Creamos HolaMundo.java, compilamos y ejecutamos.
