@@ -7,7 +7,7 @@
    git push publicar y sincronizar la carpeta a github.
    git pull para sincronizar github con otra carpeta.
 
-
+24/09/2018
 
 Virutual box
 
@@ -19,3 +19,9 @@ Virutual box
 Para compilar ponemos en el terminal javac, al compilarlo hemos obtenido un nuevo archivo llamado HolaMundo.class (ejecutable en jre) el nombre de la clase y del archivo tiene que estar las iniciales con mayúsculas.
 
 	Creamos HolaMundo.java, compilamos y ejecutamos.
+27/09/2018
+ sudo apt update
+ sudo apt install git
+
+1/10/2018
+Descargamos eclipse IDE for java developers desde la página oficial de eclipse para instalar, simplemente descomprimir
