@@ -30,6 +30,8 @@ public class Vector {
 	for(int index= 1; index< v.length;index++) {
 		if(v[index]<min)
 			min=v[index];
+		//int indexOfMIn=indexOfMin(v);
+		//return v[indexOfMin];
 		 
    }
 	  return min; //TODO implementar
