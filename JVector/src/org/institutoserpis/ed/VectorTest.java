@@ -47,10 +47,5 @@ class VectorTest {
 	void sort() {
 		int[] v=new int[] {16,12,15,14,17};
 		Vector.sort(v);
-		assertEquals(0,Vector.indexOfMin(new int[] {12,16,15,14,17}));
-	    assertEquals(1,Vector.indexOfMin(new int[] {16,12,15,14,17}));
-	    assertEquals(2,Vector.indexOfMin(new int[] {16,15,12,14,17}));
-	    assertEquals(3,Vector.indexOfMin(new int[] {16,14,15,12,17}));
-	    assertEquals(4,Vector.indexOfMin(new int[] {16,17,15,14,12}));
 	}
 }
