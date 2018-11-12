@@ -25,6 +25,7 @@ public class Vector {
 	       return -1;
 	   
    }
+
    public static int min(int[] v ) {
 	   int min=v[0];
 	for(int index= 1; index< v.length;index++) {
@@ -57,4 +58,14 @@ public class Vector {
 	  v[indexOfMin]=aux;
    }
    }
+	private static int indexofMin(int[] v, int initialIndex) {
+		return -1;
+	}
+	public static void swap(int[]v,int indexOne,int indexTwo) {
+		int aux=v[indexOne];
+		v[indexOne]=v[indexTwo];
+		v[indexTwo]=aux;
+	 // for(int index=0;index< v.length-1;index++)
+	//  swap(v,index,indexOfMin(v,index));
+	}
 }
