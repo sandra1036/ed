@@ -1,0 +1,6 @@
+/home/sanoro/ed/CVector/CVector/bin/Debug/CVector.exe
+/home/sanoro/ed/CVector/CVector/bin/Debug/CVector.pdb
+/home/sanoro/ed/CVector/CVector/obj/x86/Debug/CVector.csprojAssemblyReference.cache
+/home/sanoro/ed/CVector/CVector/obj/x86/Debug/CVector.csproj.CoreCompileInputs.cache
+/home/sanoro/ed/CVector/CVector/obj/x86/Debug/CVector.exe
+/home/sanoro/ed/CVector/CVector/obj/x86/Debug/CVector.pdb
