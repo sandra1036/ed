@@ -16,15 +16,24 @@ namespace CVector
                 return -1;
             int primero = 0;
             int ultimo = count - 1;
-            int medio = (primero + ultimo) / 2;
-            while (primero < ultimo && v[medio] != x){
-                if (...)
+            int medio = ( primero + ultimo ) / 2;
+            while ( primero < ultimo && v[medio] != x ){
+
+                if ( primero < x )
+
                     primero = medio + 1;
+
                 else
                     ultimo = medio - 1;
-                medio = (primero + ultimo) / 2;
+
+                    medio = (primero + ultimo) / 2;
             }
-            return -2;   
+            if (primero > ultimo)
+                return -1;
+
+            if (v[medio] == x)
+                return medio;
+                return -1;
         }
     
     }
