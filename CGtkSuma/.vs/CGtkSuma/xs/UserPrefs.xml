@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{DD041C51-9A82-4B86-AB4E-DB33421ADA1F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CGtkSuma/MainWindow.cs">
+    <Files>
+      <File FileName="CGtkSuma/Program.cs" Line="15" Column="13" />
+      <File FileName="CGtkSuma/MainWindow.cs" Line="27" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CGtkSuma PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

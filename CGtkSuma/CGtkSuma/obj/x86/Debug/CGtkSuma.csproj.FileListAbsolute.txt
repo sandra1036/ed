@@ -1,0 +1,6 @@
+/home/sanoro/ed/CGtkSuma/CGtkSuma/bin/Debug/CGtkSuma.exe
+/home/sanoro/ed/CGtkSuma/CGtkSuma/bin/Debug/CGtkSuma.pdb
+/home/sanoro/ed/CGtkSuma/CGtkSuma/obj/x86/Debug/CGtkSuma.csprojAssemblyReference.cache
+/home/sanoro/ed/CGtkSuma/CGtkSuma/obj/x86/Debug/CGtkSuma.csproj.CoreCompileInputs.cache
+/home/sanoro/ed/CGtkSuma/CGtkSuma/obj/x86/Debug/CGtkSuma.exe
+/home/sanoro/ed/CGtkSuma/CGtkSuma/obj/x86/Debug/CGtkSuma.pdb
