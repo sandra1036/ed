@@ -1,0 +1,6 @@
+/home/sanoro/ed/GTKBingo/GTKBingo/bin/Debug/GTKBingo.exe
+/home/sanoro/ed/GTKBingo/GTKBingo/bin/Debug/GTKBingo.pdb
+/home/sanoro/ed/GTKBingo/GTKBingo/obj/x86/Debug/GTKBingo.csprojAssemblyReference.cache
+/home/sanoro/ed/GTKBingo/GTKBingo/obj/x86/Debug/GTKBingo.csproj.CoreCompileInputs.cache
+/home/sanoro/ed/GTKBingo/GTKBingo/obj/x86/Debug/GTKBingo.exe
+/home/sanoro/ed/GTKBingo/GTKBingo/obj/x86/Debug/GTKBingo.pdb
