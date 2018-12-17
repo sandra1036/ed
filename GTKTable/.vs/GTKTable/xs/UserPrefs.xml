@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{98159D2A-5F53-4FDD-A6AA-1422F13E77F3}|Default">
+  <MonoDevelop.Ide.ItemProperties.GTKTable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GTKTable/Program.cs">
+    <Files>
+      <File FileName="GTKTable/Program.cs" Line="15" Column="6" />
+      <File FileName="GTKTable/MainWindow.cs" Line="23" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

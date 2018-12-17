@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{71692AE1-3D58-4439-8D85-E4F216D38D72}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GTKBingo/Program.cs">
+    <Files>
+      <File FileName="GTKBingo/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GTKBingo PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

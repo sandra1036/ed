@@ -1,0 +1,6 @@
+/home/sanoro/Projects/GTKTable/GTKTable/bin/Debug/GTKTable.exe
+/home/sanoro/Projects/GTKTable/GTKTable/bin/Debug/GTKTable.pdb
+/home/sanoro/Projects/GTKTable/GTKTable/obj/x86/Debug/GTKTable.csprojAssemblyReference.cache
+/home/sanoro/Projects/GTKTable/GTKTable/obj/x86/Debug/GTKTable.csproj.CoreCompileInputs.cache
+/home/sanoro/Projects/GTKTable/GTKTable/obj/x86/Debug/GTKTable.exe
+/home/sanoro/Projects/GTKTable/GTKTable/obj/x86/Debug/GTKTable.pdb
