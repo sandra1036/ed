@@ -56,8 +56,8 @@ public partial class MainWindow
 		// Container child vbox1.Gtk.Box+BoxChild
 		this.table = new global::Gtk.Table(((uint)(9)), ((uint)(10)), true);
 		this.table.Name = "table";
-		this.table.RowSpacing = ((uint)(3));
-		this.table.ColumnSpacing = ((uint)(3));
+		this.table.RowSpacing = ((uint)(7));
+		this.table.ColumnSpacing = ((uint)(5));
 		this.vbox1.Add(this.table);
 		global::Gtk.Box.BoxChild w4 = ((global::Gtk.Box.BoxChild)(this.vbox1[this.table]));
 		w4.Position = 1;

@@ -22,7 +22,6 @@ public partial class MainWindow : Gtk.Window
                 contador++;
             }
 
-
         table.ShowAll();
         
 

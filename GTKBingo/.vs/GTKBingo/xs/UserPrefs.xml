@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{71692AE1-3D58-4439-8D85-E4F216D38D72}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="GTKBingo/MainWindow.cs">
     <Files>
-      <File FileName="GTKBingo/MainWindow.cs" Line="11" Column="9" />
+      <File FileName="GTKBingo/MainWindow.cs" Line="42" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
