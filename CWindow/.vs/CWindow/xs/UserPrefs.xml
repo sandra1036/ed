@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{82E1717E-BA1B-45E1-94F2-5D0A6F0D1B94}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CWindow/MyDialog.cs">
+    <Files>
+      <File FileName="CWindow/MainWindow.cs" Line="22" Column="6" />
+      <File FileName="CWindow/MyWindow.cs" Line="7" Column="44" />
+      <File FileName="CWindow/WindowHelper.cs" Line="14" Column="39" />
+      <File FileName="CWindow/MyDialog.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CWindow PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
