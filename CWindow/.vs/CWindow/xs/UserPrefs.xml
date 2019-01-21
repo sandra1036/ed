@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{82E1717E-BA1B-45E1-94F2-5D0A6F0D1B94}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CWindow/MyDialog.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CWindow/WindowHelper.cs">
     <Files>
-      <File FileName="CWindow/MainWindow.cs" Line="22" Column="6" />
+      <File FileName="CWindow/MainWindow.cs" Line="16" Column="53" />
       <File FileName="CWindow/MyWindow.cs" Line="7" Column="44" />
       <File FileName="CWindow/WindowHelper.cs" Line="14" Column="39" />
       <File FileName="CWindow/MyDialog.cs" Line="12" Column="1" />
