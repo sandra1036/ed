@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ASuma</string>
+    <string name="labelnum1">Dime un numero</string>
+    <string name="labelnum2">Dime un numero</string>
+    <string name="labelresu">Resultado</string>
+    <string name="buttonSuma">+</string>
+</resources>

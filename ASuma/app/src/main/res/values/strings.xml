@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ASuma</string>
+    <string name="labelnum1">Number</string>
+    <string name="labelnum2">Number</string>
+    <string name="labelresu">Result</string>
+    <string name="buttonSuma">+</string>
+</resources>
