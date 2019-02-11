@@ -14,8 +14,9 @@
         android:layout_marginLeft="24dp"
         android:layout_marginTop="24dp"
         android:ems="10"
+        android:gravity="right"
         android:hint="@string/labelnum1"
-        android:inputType="textPersonName"
+        android:inputType="numberDecimal"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -27,23 +28,11 @@
         android:layout_marginLeft="24dp"
         android:layout_marginTop="24dp"
         android:ems="10"
+        android:gravity="right"
         android:hint="@string/labelnum2"
-        android:inputType="textPersonName"
+        android:inputType="numberDecimal"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextNum1" />
-
-    <EditText
-        android:id="@+id/editTextResultado"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="24dp"
-        android:layout_marginLeft="24dp"
-        android:layout_marginTop="24dp"
-        android:ems="10"
-        android:hint="@string/labelresu"
-        android:inputType="textPersonName"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextNum2" />
 
     <Button
         android:id="@+id/buttonSuma"
@@ -52,9 +41,37 @@
         android:layout_marginStart="32dp"
         android:layout_marginLeft="32dp"
         android:layout_marginTop="68dp"
-        android:onClick="SendMessage"
+        android:onClick="resultado"
         android:text="@string/buttonSuma"
         android:textSize="30sp"
         app:layout_constraintStart_toEndOf="@+id/editTextNum1"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/TextViewResult"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="24dp"
+        android:gravity="right"
+        android:text="@string/labelresu"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="@+id/editTextNum2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextNum2" />
+
+    <Button
+        android:id="@+id/buttonResta"
+        android:layout_width="85dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="56dp"
+        android:layout_marginRight="56dp"
+        android:onClick="onButtonRestaClick"
+        android:text="-"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonSuma" />
+
 </android.support.constraint.ConstraintLayout>
