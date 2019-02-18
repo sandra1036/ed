@@ -15,6 +15,5 @@ public class MainActivity extends AppCompatActivity {
 
     public void Imagenes(View view){
 
-        ImageView entry = (ImageView) findViewById(R.id.imageView2);
     }
 }
