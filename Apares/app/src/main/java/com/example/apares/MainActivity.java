@@ -10,14 +10,16 @@ import android.widget.ImageView;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-      private ArrayList <Integer> ids=
-              Arrays.asList(R.id.imageButton1,R.id.imageButton2,R.id.imageButton30,R.id.imageButton4,
-                      R.id.imageButton5,R.id.imageButton14,R.id.imageButton9,R.id.imageButton10,R.id.imageButton11,
+      private List<Integer> ids=
+              Arrays.asList(R.id.imageButton1, R.id.imageButton2, R.id.imageButton30, R.id.imageButton4,
+                      R.id.imageButton5, R.id.imageButton14, R.id.imageButton9, R.id.imageButton10, R.id.imageButton11,
                       R.id.imageButton12,R.id.imageButton13,R.id.imageButton14);
 
+      private List<ImageButton>list=new ArrayList<>();
 
 
     @Override
