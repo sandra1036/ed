@@ -19,12 +19,13 @@ public class MainActivity extends AppCompatActivity {
 private List<Integer> ids=
         Arrays.asList(R.id.button,R.id.button2,R.id.button3);
 private List <Button> buttonList=new ArrayList<>();
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        for (int id : ids) {
+        for (int id: ids) {
             final Button button = findViewById(id);
             buttonList.add(button);
             button.setOnClickListener(v -> {
@@ -62,7 +63,9 @@ private List <Button> buttonList=new ArrayList<>();
         //asignar al boton sin entrar en el diseño
 
         //clase anonima
+
 //        button.setOnClickListener(new View.OnClickListener() {
+
 //            @Override
 //            public void onClick(View v) {
 //                button.postDelayed(new Runnable() {
@@ -87,6 +90,7 @@ private List <Button> buttonList=new ArrayList<>();
 
     public void onButtonClick(View view){
         Log.i(MainActivity.class.getSimpleName(),"Ejecutando onButtonClick");
+
 //        button.setText("Hola");
 
 //        button.postDelayed(new Runnable() {
