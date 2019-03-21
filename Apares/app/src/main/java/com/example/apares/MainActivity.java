@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
             R.drawable.rin, R.drawable.natsu, R.drawable.sakura));
 
 
+    private Handler handler=new Handler();
+
     private ColorDrawable colorDrawable = new ColorDrawable(Color.LTGRAY);
 
     @Override
@@ -61,6 +63,26 @@ public class MainActivity extends AppCompatActivity {
             ImageButton imageButton = (ImageButton) view;
             int index = list.indexOf(imageButton);
             imageButton.setImageResource(imageIds.get(index));
+            int contC=0,contI=0;
+            boolean ant=true;
+
+            ImageButton prim=null;
+
+
+            if(ant){
+
+                   prim=imageButton;
+
+            }else {
+                if(!imageIds.equals(imageButton)){
+                    handler.postDelayed(()-> {
+                        imageButton.setImageDrawable(colorDrawable);
+                    },2000);
+                }
+            }
+            ant=!ant;
+
+
 
 
 
