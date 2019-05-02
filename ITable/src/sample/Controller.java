@@ -29,7 +29,7 @@ public class Controller {
         label.setText("cambiado en initialize");
         //tableView.getItems().add(new Persona("pepe","666666666"));
         tableView.setItems(personas);
-        
+
     }
 
     @FXML private void onButtonAction(ActionEvent actionEvent){
