@@ -1,0 +1,6 @@
+/home/sanoro/ed/Pcsharp/Pcsharp/bin/Debug/Pcsharp.exe
+/home/sanoro/ed/Pcsharp/Pcsharp/bin/Debug/Pcsharp.pdb
+/home/sanoro/ed/Pcsharp/Pcsharp/obj/x86/Debug/Pcsharp.csprojAssemblyReference.cache
+/home/sanoro/ed/Pcsharp/Pcsharp/obj/x86/Debug/Pcsharp.csproj.CoreCompileInputs.cache
+/home/sanoro/ed/Pcsharp/Pcsharp/obj/x86/Debug/Pcsharp.exe
+/home/sanoro/ed/Pcsharp/Pcsharp/obj/x86/Debug/Pcsharp.pdb
