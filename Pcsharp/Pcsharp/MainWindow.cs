@@ -3,6 +3,7 @@ using Gtk;
 
 public partial class MainWindow : Gtk.Window
 {
+    private bool isnew=false;
     public MainWindow() : base(Gtk.WindowType.Toplevel)
     {
         Build();
@@ -36,13 +37,29 @@ public partial class MainWindow : Gtk.Window
 
             String nombre=(String)treeView.Model.GetValue(treeIter, 0);
             String telefono=(String)treeView.Model.GetValue(treeIter, 1);
-
             entry1.Text = nombre;
             entry2.Text = telefono;
 
         };
+        button1.Clicked += (sender, e) =>
+        {
+            if (isnew)
+            {
+                listStore.AppendValues(entry1.Text, entry2.Text);
+            }
+            else{
+                treeView.Selection.GetSelected(out TreeIter treeIter);
+                listStore.SetValue(treeIter, 0, entry1.Text);
+                listStore.SetValue(treeIter, 1, entry2.Text);
+            }
+            vBoxContacto.Visible = false;
+            treeView.Sensitive = true;
 
+        };
 
+        button2.Clicked +=(sender, e) => {
+
+        };
     }
 
     protected void OnDeleteEvent(object sender, DeleteEventArgs a)
